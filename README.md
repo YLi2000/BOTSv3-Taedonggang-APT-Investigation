@@ -96,9 +96,9 @@ This project complements my professional experience in SIEM operations, incident
 
 ## 📫 Contact
 
-**[Your Name]** | Calgary, AB, Canada  
-📧 [Your Email]  
-💼 [LinkedIn Profile URL]  
+**Yi Li** | Calgary, AB, Canada  
+📧 Email: ericliyi3000@hotmail.com  
+💼 Linkedin: https://www.linkedin.com/in/ethan1387/
 
 ---
 
